@@ -1,6 +1,6 @@
 # Add-to-Cart
 
-This is a simple web application called "Add-to-Cart" built using Bootstrap and JavaScript. The application allows users to add products to their shopping cart and view the total price of the items in the cart.
+This is a simple web application called "Add-to-Cart" built using Bootstrap and JavaScript. The application allows users to add products to their shopping cart.
 
 ## Installation
 
